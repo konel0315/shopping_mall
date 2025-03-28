@@ -5,5 +5,5 @@
 
 int main()
 {
-	
+	routine_3();
 }
